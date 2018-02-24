@@ -13,7 +13,7 @@ namespace GitDemo2
     public class Program
     {
         /// <summary>
-        /// 增加测试注入
+        /// 增加测试注入asfdsfdsgf
         /// </summary>
         /// <param name="args"></param>
         public static void Main(string[] args)
