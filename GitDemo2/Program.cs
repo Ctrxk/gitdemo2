@@ -13,12 +13,11 @@ namespace GitDemo2
     public class Program
     {
         /// <summary>
-        /// 增加测试注入asfdsfdsgf
+        /// 这是开发分支
         /// </summary>
         /// <param name="args"></param>
         public static void Main(string[] args)
         {
-         22sfdsfdsf
             BuildWebHost(args).Run();
         }
 
